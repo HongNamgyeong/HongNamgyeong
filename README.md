@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 📱 010-8548-8104
 
 [이력서 다운로드.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdbd3389-fe2f-4815-bf45-ce107485858b/홍남경_이력서.pdf)
+
 [Notion 이력서](https://fossil-move-6cf.notion.site/2b3c976391a248518e6342067b8ca7da)
 
 # 🛠 기술스택 / Skills
